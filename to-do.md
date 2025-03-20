@@ -1,7 +1,7 @@
-- [ ] Remove LinkedIn link
-- [ ] Remove projects page
-- [ ] Remove blog page
-- [ ] Add favicon
+- [x] Remove LinkedIn link
+- [x] Remove projects page
+- [x] Remove blog page
+- [x] Add favicon
 - [ ] Update `_bibliography`
 - [ ] Add CV (after making a new one ofc)
 - [ ] Add posters and presentations to publications using different .bib files for headers

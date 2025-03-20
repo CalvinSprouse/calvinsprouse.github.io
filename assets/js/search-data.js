@@ -23,20 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
         },{
         id: 'social-email',
         title: 'email',
@@ -50,13 +36,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/CalvinSprouse", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/", "_blank");
         },
       },{
         id: 'social-orcid',
