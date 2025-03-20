@@ -18,7 +18,7 @@ lang: en
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://calvinsprouse.github.io
-baseurl:
+# baseurl:
 last_updated: false
 # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 impressum_path:
